@@ -1,3 +1,5 @@
-*/*.o
-*/*.bin
-*/*.elf
+*.o
+*.bin
+*.elf
+*.mp4
+*.mkv
