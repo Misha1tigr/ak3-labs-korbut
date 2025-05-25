@@ -3,3 +3,9 @@
 *.elf
 *.mp4
 *.mkv
+*.su
+*.d
+*.cyclo
+*.list
+*.map
+*.sdf
